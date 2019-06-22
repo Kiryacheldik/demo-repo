@@ -5,3 +5,4 @@ Good good good
 This change on the repository
 I love Polina
 from the master branch
+from the feature branch
